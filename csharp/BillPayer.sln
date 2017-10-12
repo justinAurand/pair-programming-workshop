@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillPayer", "BillPayer\BillPayer.csproj", "{8638B50B-8DBE-4CC8-B17F-A5A96922608F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillyPayer.Tests", "BillyPayer.Tests\BillyPayer.Tests.csproj", "{A86308E5-F4B5-43A1-A96E-8D7BBF2AA027}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillPayer.Tests", "BillPayer.Tests\BillPayer.Tests.csproj", "{A86308E5-F4B5-43A1-A96E-8D7BBF2AA027}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
