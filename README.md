@@ -10,3 +10,11 @@ If you don't have a unit test runner in your IDE you can run tests via the comma
 PS C:\..\pair-programming-workshop\csharp\scripts> .\runtests.bat 
 
 ```
+
+## Elixir Project
+
+The project is contained within the `elixir` folder, and assumes that you have Elixir installed already. This project makes use of ExUnit, a built-in unit testing library for Elixir. 
+
+``` elixir
+mix test #to run the tests in the project
+```
