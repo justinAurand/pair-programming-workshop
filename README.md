@@ -13,8 +13,8 @@ PS C:\..\pair-programming-workshop\csharp\scripts> .\runtests.bat
 
 ## Elixir Project
 
-The project is contained within the `elixir` folder, and assumes that you have Elixir installed already. This project makes use of ExUnit, a built-in unit testing library for Elixir. 
+The project is contained within the `elixir` folder, and assumes that you have Elixir installed already. This project makes use of ExUnit, a built-in unit testing library for Elixir. Use the `mix test` command to run the unit tests:
 
 ``` elixir
-mix test #to run the tests in the project
+mix test
 ```
