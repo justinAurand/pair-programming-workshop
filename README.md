@@ -20,3 +20,11 @@ npm install //(or yarn) to install necessary dependencies locally
 npm start // to run the project with index.js as the entry point
 npm test // to run tests added in the test folder
 ```
+
+## Elixir Project
+
+The project is contained within the `elixir` folder, and assumes that you have Elixir installed already. This project makes use of ExUnit, a built-in unit testing library for Elixir. Run the `mix test` command in the `elixir` directory to run the unit tests:
+
+``` elixir
+mix test
+```
