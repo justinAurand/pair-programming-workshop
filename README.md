@@ -1,15 +1,17 @@
 # Pair Programming Workshop 
-Projects in various languages for the PhillyXP Pair Programming / TDD Workshop requiring no configuration
+
+Projects in various languages for the PhillyXP Pair Programming / TDD Workshop requiring no additional configuration and minimal dependencies.
 
 ## C# Project
 
-Find the solution and project files in the csharp directory.
-If you don't have a unit test runner in your IDE you can run tests via the command line by running the following command from the scripts directory
+The solution and corresponding project files can be found within the `csharp` folder.
+If you don't have a unit test runner configured for your IDE or editor you can run tests via the command line by running the following command from the scripts directory
 
 ```
 PS C:\..\pair-programming-workshop\csharp\scripts> .\runtests.bat 
 
 ```
+This project includes dependencies for unit testing ([NUnit](http://nunit.org/)) and stubbing / mocking ([Moq](https://github.com/moq/moq4)).
 
 ## Javascript Project
 
